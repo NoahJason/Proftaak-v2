@@ -1,6 +1,6 @@
 # Proftaak
 
-This is an exame project.
+This is an exam project.
 This project has been made by 5 people.
 It was a project we needed to make for school.
 
