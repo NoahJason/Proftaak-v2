@@ -12,24 +12,24 @@
     <!-- link to social media icons -->
     <title>Creator Page</title>
 </head>
-<body>
+<body id="creatorspg">
     <?php include 'navbar.php'?>
 <main>
 <div id="AllCreators">
-    <img src="images/senne.jpg" alt="Creator foto" class="CreatorFotoSenne">
+    <img src="images/senne.png" alt="Creator foto" class="CreatorFotoSenne">
     <!-- Image of creator -->
 
     <div class="CreatorDivSenne">
     <h1>Senne </br> Manders</h1>
     <h2>Teamleider</h2>
 
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo dolorum natus laborum fugiat optio, alias illum, nobis tempora iusto laboriosam sunt. Nemo ex odio a voluptates libero suscipit voluptate quae.</p>
+    <p>Ik ben senne manders, ik ben 16 jaar oud en woon in Boekel. Mijn hobby’s zijn gamen en dansen. Deze proftaak heb ik me bezig gehouden met de documentatie en de games.</p>
     </div>
 
     <div class="SocialsLinkSenne">
-    <a href="https://nl-nl.facebook.com/" class="fa fa-facebook"></a>   
-    <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-    <a href="https://twitter.com/" class="fa fa-twitter"></a>
+    <a href="#" class="fa fa-facebook"></a>   
+    <a href="https://www.instagram.com/sennemanders/" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-twitter"></a>
     <!-- social media buttons -->
     </div>
 
@@ -45,9 +45,9 @@
     </div>
 
     <div class="SocialsLinkRemco">
-    <a href="https://nl-nl.facebook.com/" class="fa fa-facebook"></a>
-    <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-    <a href="https://twitter.com/" class="fa fa-twitter"></a>
+    <a href="https://www.facebook.com/RemcoToonders" class="fa fa-facebook"></a>
+    <a href="https://www.instagram.com/remcotoonders/" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-twitter"></a>
     <!-- social media buttons -->
     </div>
 
@@ -58,13 +58,13 @@
     <h1>Koen </br> Litjens</h1>
     <h2>Unity</h2>
 
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo dolorum natus laborum fugiat optio, alias illum, nobis tempora iusto laboriosam sunt. Nemo ex odio a voluptates libero suscipit voluptate quae.</p>
+    <p>Ik ben Koen Litjens, ik ben 23 jaar oud en woon in Hegelsom. Mijn hobby's zijn gamen, sporten en stappen met vrienden. Ik heb me deze proftaak vooral bezig gehouden met de ninja run game.</p>
     </div>
 
     <div class="SocialsLinkKoen">
-    <a href="https://nl-nl.facebook.com/" class="fa fa-facebook"></a>   
-    <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-    <a href="https://twitter.com/" class="fa fa-twitter"></a>
+    <a href="https://www.facebook.com/koen.litjens.52/" class="fa fa-facebook"></a>   
+    <a href="https://www.instagram.com/koenlitjens/" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-twitter"></a>
     <!-- social media buttons -->
     </div>
 
@@ -76,13 +76,13 @@
     <h1>Ilse </br> van Loon</h1>
     <h2>Front end</h2>
 
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo dolorum natus laborum fugiat optio, alias illum, nobis tempora iusto laboriosam sunt. Nemo ex odio a voluptates libero suscipit voluptate quae.</p>
+    <p>Ik ben Ilse van Loon, ik ben 18 jaar oud en woon in Asten. Mijn hobby's zijn gamen en slapen. Ik heb me deze proftaak vooral bezig gehouden met de About page.</p>
     </div>
 
     <div class="SocialsLinkIlse">
-    <a href="https://nl-nl.facebook.com/" class="fa fa-facebook"></a>   
-    <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-    <a href="https://twitter.com/" class="fa fa-twitter"></a>
+    <a href="https://www.facebook.com/profile.php?id=100010454054685" class="fa fa-facebook"></a>   
+    <a href="https://www.instagram.com/ilsevan.loon/" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-twitter"></a>
     <!-- social media buttons -->
     </div>
 
@@ -92,15 +92,15 @@
 
     <div class="CreatorDivNoah">
     <h1>Noah </br> Tai Apin</h1>
-    <h2>Back end</h2>
+    <h2>Front end</h2>
 
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo dolorum natus laborum fugiat optio, alias illum, nobis tempora iusto laboriosam sunt. Nemo ex odio a voluptates libero suscipit voluptate quae.</p>
+    <p>Ik ben Noah Tai Apin, Ik ben 22 jaar oud en woon in Helmond. Mijn hobby's zijn Sporten, game en uitgaan met vrienden. Ik ben het meest bezig geweest met web development.</p>
     </div>
 
     <div class="SocialsLinkNoah">
-    <a href="https://nl-nl.facebook.com/" class="fa fa-facebook"></a>   
-    <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-    <a href="https://twitter.com/" class="fa fa-twitter"></a>
+    <a href="https://www.facebook.com/noah.taiapin.5" class="fa fa-facebook"></a>   
+    <a href="https://www.instagram.com/jasontaiii/" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-twitter"></a>
     <!-- social media buttons -->
     </div>
     </main>

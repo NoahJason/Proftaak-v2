@@ -5,7 +5,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap" rel="stylesheet" />
 </head>
 
-<body>
+<body id="homepg">
   <?php include 'navbar.php'?>
   <main>
     <h1>in IT to win IT</h1>
