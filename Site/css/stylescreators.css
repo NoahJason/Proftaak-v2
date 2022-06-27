@@ -1,0 +1,383 @@
+main {
+    margin-left: 5rem;
+    padding: 1rem;
+  }
+
+#CreatorsBody{
+    background-color: #35535c;
+    margin-bottom: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Title{
+  text-align: center;
+  color: white;                              
+}
+
+#AllCreators{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 400px;
+}
+
+/* Senne begin */
+.CreatorDivSenne{
+  background-color: white;
+  height: 310px;
+  margin-top: 150px;
+  margin-right: 800px;
+  padding-top: 70px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  z-index: 6;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: solid 10px rgb(45, 62, 72);
+}
+
+.CreatorFotoSenne{
+  border: solid 5px #576e75;
+  background-color: #576e75;
+  margin-top: 30px;
+  margin-left: 170px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  z-index: 7;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.SocialsLinkSenne{
+  background-color: #576e75;
+  border-radius: 10px;
+  position: absolute;
+  margin-right: 800px;
+  margin-top: 250px;
+  padding-top: 1px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+}
+
+.SocialsLinkSenne:hover{
+  background-color: #d2481e;
+}
+/* senne end */
+
+/* Remco begin */
+.CreatorDivRemco{
+  background-color: white;
+  height: 310px;
+  margin-top: 150px;
+  padding-top: 70px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  z-index: 6;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: solid 10px rgb(45, 62, 72);
+}
+
+.CreatorFotoRemco{
+  border: solid 5px #576e75;
+  background-color: #576e75;
+  margin-top: 30px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 7;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  }
+
+.SocialsLinkRemco{
+  background-color: #576e75;
+  border-radius: 10px;
+  position: absolute;
+  margin-top: 250px;
+  padding-top: 1px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+}
+
+.SocialsLinkRemco:hover{
+  background-color: #d2481e;
+}
+/* Remco end */
+
+/* Koen Litjens begin */
+.CreatorDivKoen{
+  background-color: white;
+  height: 310px;
+  margin-top: 150px;
+  margin-left: 800px;
+  padding-top: 70px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  z-index: 6;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: solid 10px rgb(45, 62, 72);
+}
+
+.CreatorFotoKoen{
+  border: solid 5px #576e75;
+  background-color: #576e75;
+  margin-top: 30px;
+  margin-left: 400px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 7;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  }
+
+.SocialsLinkKoen{
+  background-color: #576e75;
+  border-radius: 10px;
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 250px;
+  padding-top: 1px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+}
+
+.SocialsLinkKoen:hover{
+  background-color: #d2481e;
+}
+/* koen Litjens end */
+
+/* Ilse begin */
+.CreatorDivIlse{
+  background-color: white;
+  height: 310px;
+  margin-top: 800px;
+  margin-right: 380px;
+  padding-top: 70px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  z-index: 6;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: solid 10px rgb(45, 62, 72);
+}
+
+.CreatorFotoIlse{
+  border: solid 5px #576e75;
+  background-color: #576e75;
+  margin-top: 680px;
+  margin-right: 760px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  z-index: 7;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.SocialsLinkIlse{
+  background-color: #576e75;
+  border-radius: 10px;
+  position: absolute;
+  margin-right: 380px;
+  margin-top: 900px;
+  padding-top: 1px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+}
+
+.SocialsLinkIlse:hover{
+  background-color: #d2481e;
+}
+/* Ilse end */
+
+/* Noah begin */
+.CreatorDivNoah{
+  background-color: white;
+  height: 310px;
+  margin-top: 800px;
+  margin-left: 380px;
+  padding-top: 70px;
+  width: 250px;
+  text-align: center;
+  position: absolute;
+  z-index: 6;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: solid 10px rgb(45, 62, 72);
+
+}
+
+.CreatorFotoNoah{
+  border: solid 5px #576e75;
+  background-color: #576e75;
+  margin-top: 680px;
+  margin-left: 190px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 7;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  }
+
+.SocialsLinkNoah{
+  background-color: #576e75;
+  border-radius: 10px;
+  position: absolute;
+  margin-left: 380px;
+  margin-top: 900px;
+  padding-top: 1px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+}
+
+.SocialsLinkNoah:hover{
+  background-color: #d2481e;
+}
+/* Noah end */
+
+
+/* Socialmedia buttons icons */
+.fa{
+  padding: 20px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 30px;
+}
+
+.fa-facebook:hover{
+  transform: translateY(-10px);
+  transition: 0.1s;
+  color: rgb(38, 100, 193);
+}
+ 
+.fa-instagram:hover{
+  transform: translateY(-10px);
+  transition: 0.1s;
+  color: rgb(255, 65, 65);
+}
+
+.fa-twitter:hover{
+  transform: translateY(-10px);
+  transition: 0.1s;
+  color: rgb(89, 142, 221);
+}
+
+.fa-facebook{
+  background-color: white;
+  color: #576e75;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 20px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.fa-instagram{
+  background-color: white;
+  color: #576e75;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 100px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.fa-twitter{
+  background-color: white;
+  color: #576e75;
+  margin-top: 300px;
+  margin-left:180px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+/* @media Query Begin*/
+@media (max-width: 600px){
+  /* Senne info begin */
+
+  .CreatorDivSenne{
+    margin-left: 700px;
+  }
+
+  .CreatorFotoSenne{
+    margin-left: 700px;
+  }
+  
+  .SocialsLinkSenne{
+    margin-left: 700px;
+  }
+ 
+  /* Remco info Begin */
+
+  .CreatorDivRemco{
+    margin-top: 800px;
+  }
+
+  .CreatorFotoRemco{
+    margin-top: 680px;
+  }
+  
+  .SocialsLinkRemco{
+    margin-top: 900px;
+  }
+
+  /* Koen litjens info Begin */
+
+  .CreatorDivKoen{
+    margin-right: 700px;
+    margin-top: 1500px;
+  }
+
+  .CreatorFotoKoen{
+    margin-right: 700px;
+    margin-top: 1380px;
+    margin-bottom: 100px;
+  }
+  
+  .SocialsLinkKoen{
+    margin-right: 700px;
+    margin-top: 1600px;
+  }
+
+  /* Ilse info Begin */
+
+  .CreatorDivIlse{
+    margin-left: 700px;
+    margin-top: 2200px;
+  }
+
+  .CreatorFotoIlse{
+    margin-left: 700px;
+    margin-top: 2080px;
+    margin-left: 100px;
+  }
+  
+  .SocialsLinkIlse{
+    margin-left: 700px;
+    margin-top: 2300px;
+  }
+
+  /* Noah info begin */
+
+  .CreatorDivNoah{
+    margin-top: 2900px;
+  }
+
+  .CreatorFotoNoah{
+    margin-top: 2780px;
+  }
+  
+  .SocialsLinkNoah{
+    margin-top: 3000px;
+  }
+}
+
+
+

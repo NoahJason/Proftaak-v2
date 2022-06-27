@@ -12,13 +12,20 @@
 
 <body id="aboutpg">
     <main>
-        <div class="imgBM">
-            <a href="http://localhost/code/EXAME/about.php"><img class="imgBookmark" src="images/Bookmark2.png" alt="Photo of Bookmark"></img>
+    <div class="imgBM">
+        <a href="http://localhost/code/EXAME/about.php">
+            <img class="imgBookmark" src="images/Bookmark2.png" alt="Photo of Bookmark"></img>
         </a>
-        </div>
-    <div id="textContainer1">
-            <h1>Click one of the pictures to get info!</h1>
     </div>
+    <div id="textContainer1">
+        <h1>Click one of the pictures to get info!</h1>
+            <h3>
+                Pong is a two-dimensional sports game that simulates table tennis.
+                 The player controls an in-game paddle by moving it vertically across the left or right side of the screen.
+                  They can compete against another player controlling a second paddle on the opposing side.
+                 Players use the paddles to hit a ball back and forth.
+            </h3>
+            </div>
         <div id="game1">
             <a href="http://localhost/code/EXAME/InfoGame1.php"><img id="img" src="images/Run2.png" alt="Photo of game 1"></img></a>
         </div>

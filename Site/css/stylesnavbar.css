@@ -13,10 +13,11 @@
     background-color: white;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
   }
   
   body::-webkit-scrollbar {
-    width: 0.25rem;
+    width: 0.55rem;
   }
   
   body::-webkit-scrollbar-track {
@@ -31,7 +32,7 @@
     position: fixed;
     background-color: var(--bg-primary);
     transition: width 600ms ease;
-    z-index: 2;
+    z-index: 12;
   }
   
   .navbar-nav {

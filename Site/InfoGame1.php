@@ -13,11 +13,16 @@
 <body id="aboutpg">
     <main>
         <div class="imgBM">
-            <a href="http://localhost/code/EXAME/about.php"><img class="imgBookmark" src="images/Bookmark2.png" alt="Photo of Bookmark"></img>
-        </a>
+            <a href="http://localhost/code/EXAME/about.php"><img class="imgBookmark" src="images/Bookmark2.png" alt="Photo of Bookmark"></img></a>
         </div>
     <div id="textContainer1">
-            <h1>Click one of the pictures to get info!</h1>
+        <h1>Click one of the pictures to get info!</h1> 
+            <h3>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+            </h3>
     </div>
         <div id="game1">
             <a href="http://localhost/code/EXAME/InfoGame1.php"><img id="img" src="images/Run2.png" alt="Photo of game 1"></img></a>
@@ -33,6 +38,7 @@
             $("#textContainer1").show(2000)
             var div = $("#textContainer1");
             div.animate({top: '100px'}, "slow");
+            div.animate({right: '300px'}, "slow");
         });
         $(document).ready(function(){
             $("#game1").show(2000)

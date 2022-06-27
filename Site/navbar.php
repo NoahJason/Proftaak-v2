@@ -13,7 +13,7 @@
         <ul class="navbar-nav">
             <li class="logo">
                 <a href="#" class="nav-link">
-                    <span class="link-text logo-text">in IT to win IT</span>
+                    <span class="link-text logo-text">in IT</span>
                     <svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="angle-double-right"
                         role="img" viewBox="0 0 448 512"
                         class="svg-inline--fa fa-angle-double-right fa-w-14 fa-5x">
@@ -43,7 +43,7 @@
                                 class="fa-primary"></path>
                         </g>
                     </svg>
-                    <span class="link-text">home</span>
+                    <span class="link-text">Home</span>
                 </a>
             </li>
 
@@ -65,7 +65,7 @@
             </li>
 
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="creators.php" class="nav-link">
                     <svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="space-station-moon-alt"
                         role="img" viewBox="0 0 512 512"
                         class="svg-inline--fa fa-space-station-moon-alt fa-w-16 fa-5x">
@@ -83,7 +83,7 @@
             </li>
 
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="game.php" class="nav-link">
                     <svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="space-shuttle" role="img"
                         viewBox="0 0 640 512"
                         class="svg-inline--fa fa-space-shuttle fa-w-20 fa-5x">

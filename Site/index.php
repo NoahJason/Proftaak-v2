@@ -8,11 +8,13 @@
 <body>
   <?php include 'navbar.php'?>
   <main>
-    <h1>HomePage</h1>
+    <h1>in IT to win IT</h1>
     <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur aperiam labore asperiores rem.
-      Commodi odio molestias temporibus sequi! Amet quam animi corporis natus nesciunt ipsa, dicta neque magni esse
-      odit.
+      This site is created by the people of the group "in IT to win IT". </br>
+      This is our project page. </br>
+      It includes 3 different games, custom made pages with working funtions. </br>
+      In this project we used HTML, CSS, and also included some JavaScript.
+    
     </p>
     
     <div class="slideshow-container">
@@ -20,20 +22,20 @@
             <!-- Full-width images with number and caption text -->
             <div class="mySlides fade">
                 <div class="numbertext">1 / 3</div>
-                <img src="images/elden.jpg" style="width:100%">
-                <div class="text">Elden Ring</div>
+                <img src="images/Run2.png" style="width:100%">
+                <div class="text">Run</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">2 / 3</div>
-                <img src="images/platform.jpg" style="width:100%">
-                <div class="text">Platform</div>
+                <img src="images/Snake2.png" style="width:100%">
+                <div class="text">Snake</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">3 / 3</div>
-                <img src="images/space.jpg" style="width:100%">
-                <div class="text">Space Invaders</div>
+                <img src="images/Pong.png" style="width:100%">
+                <div class="text">Pong</div>
             </div>
 
             <!-- Next and previous buttons -->
