@@ -20,7 +20,7 @@
             <a href="https://noahtai.itch.io/my-game" class="game">Run game</a>
         </div>
         <div class="snake">
-        <a href="url" class="Snake">Snake</a>
+        <a href="https://noahtai.itch.io/snake" class="Snake">Snake</a>
         </div>
         <div class="pong">
         <a href="url" class="Pong">Pong</a>

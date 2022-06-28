@@ -21,9 +21,9 @@
 
     <div class="CreatorDivSenne">
     <h1>Senne </br> Manders</h1>
-    <h2>Teamleider</h2>
+    <h2>TeamLeader</h2>
 
-    <p>Ik ben senne manders, ik ben 16 jaar oud en woon in Boekel. Mijn hobby’s zijn gamen en dansen. Deze proftaak heb ik me bezig gehouden met de documentatie en de games.</p>
+    <p>I am Senne Manders, I am 16 years old and live in Boekel. My hobbies are gaming and dancing. In this project I have hold myself busy with the documents and the games.</p>
     </div>
 
     <div class="SocialsLinkSenne">
@@ -39,9 +39,9 @@
 
     <div class="CreatorDivRemco">
     <h1 class="CreatorName">Remco </br> Toonders</h1>
-    <h2 class="CreatorJob">Front end</h2>
+    <h2 class="CreatorJob">Front-end</h2>
     
-    <p class="InfoCreator">Ik ben Remco Toonders, ik ben 16 jaar oud en woon in Someren. Mijn hobby's zijn voetballen Gamen en uitgaan met vrienden. Ik heb me deze proftaak het meeste bezig gehouden met het deel webdevelopment front end.</p>
+    <p class="InfoCreator">I am Remco Toonders, I am 16 years old and live in Someren. My hobbies are soccer, gaming and going out with friends. In this project I have been busy with web development front-end.</p>
     </div>
 
     <div class="SocialsLinkRemco">
@@ -58,7 +58,7 @@
     <h1>Koen </br> Litjens</h1>
     <h2>Unity</h2>
 
-    <p>Ik ben Koen Litjens, ik ben 23 jaar oud en woon in Hegelsom. Mijn hobby's zijn gamen, sporten en stappen met vrienden. Ik heb me deze proftaak vooral bezig gehouden met de ninja run game.</p>
+    <p>I am Koen Litjens, I am 23 years old and live in Hegelsom. My hobbies are gaming, gyming and going out with friends. In this project I have been busy with the Ninja run game.</p>
     </div>
 
     <div class="SocialsLinkKoen">
@@ -74,9 +74,9 @@
 
     <div class="CreatorDivIlse">
     <h1>Ilse </br> van Loon</h1>
-    <h2>Front end</h2>
+    <h2>Front-end</h2>
 
-    <p>Ik ben Ilse van Loon, ik ben 18 jaar oud en woon in Asten. Mijn hobby's zijn gamen en slapen. Ik heb me deze proftaak vooral bezig gehouden met de About page.</p>
+    <p>I am Ilse van Loon, I am 18 years old and live in Asten. My hobbies are gaming and sleeping. In this project I have been busy with the about page.</p>
     </div>
 
     <div class="SocialsLinkIlse">
@@ -92,9 +92,9 @@
 
     <div class="CreatorDivNoah">
     <h1>Noah </br> Tai Apin</h1>
-    <h2>Front end</h2>
+    <h2>Front-end</h2>
 
-    <p>Ik ben Noah Tai Apin, Ik ben 22 jaar oud en woon in Helmond. Mijn hobby's zijn Sporten, game en uitgaan met vrienden. Ik ben het meest bezig geweest met web development.</p>
+    <p>I am Noah Tai Apin, I am 22 years old and live in Helmond. My hobbies are gyming, gaming and going out with my friends. I have been busy with the homepage, combining every page, and putting the games in the site.</p>
     </div>
 
     <div class="SocialsLinkNoah">
